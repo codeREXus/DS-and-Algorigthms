@@ -14,7 +14,7 @@ class twosum {
        
     }
     
-    public static void main(String[] args)
+public static void main(String[] args)
     {
     	int nums[]={23,34,45,6,57,89};
         int tar=57;
