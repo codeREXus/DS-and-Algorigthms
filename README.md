@@ -9,4 +9,4 @@ Leetcode- https://leetcode.com/u/srianant213
 
 LinkedIn- https://www.linkedin.com/in/anant-srivastava-62b061216/
 
-Gmail-    anantsrivastava213@gmail.com
+Gmail-    srianant213@gmail.com
