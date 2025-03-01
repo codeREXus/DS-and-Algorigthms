@@ -19,4 +19,11 @@ class Solution {
         }
         return count;
     }
+    public static void main(String[] args) {
+        int m=2;
+        int n=3;
+        int[][] indices = {{0,1},{1,1}};
+        Solution s = new Solution();
+        System.out.println(s.oddCells(m,n,indices));
+    }
 }
