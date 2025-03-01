@@ -10,7 +10,7 @@ class Solution1 {
     }
     public static void main(String[] args) {
         int[] prices = {7,1,5,2,6,4};
-        Solution s = new Solution();
+        Solution1 s = new Solution1();
         System.out.println(s.maxProfit(prices));
     }
 }
