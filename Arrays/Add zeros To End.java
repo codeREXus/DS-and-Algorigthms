@@ -3,7 +3,7 @@ class Solution {
         int temp = 0;
         for (int i : nums) {
             if(i!=0){
-                nums[temp++]=i;
+      numdstemp++]=i;
             }
         }
         for(int i= temp;i<nums.length;i++){
