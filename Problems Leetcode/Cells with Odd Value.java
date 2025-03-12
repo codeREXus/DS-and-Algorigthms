@@ -1,6 +1,6 @@
 class Solution4 {
     public int oddCells(int m, int n, int[][] indices) {
-        int [] [] ans= new int[m][n];
+        int [] [] as= new int[m][n];
         for(int i =0;i<indices.length;i++){
             for(int j=0 ;j<n;j++){
                 ans[indices[i][0]] [j]++;
